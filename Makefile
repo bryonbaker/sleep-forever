@@ -2,7 +2,7 @@
 
 IMAGE_NAME := quay.io/bryonbaker/sleep-forever
 TAG := latest
-TAG2 := v1.0.0
+TAG2 := v1.0.1
 
 .PHONY: all build push clean
 

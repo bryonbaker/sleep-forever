@@ -1,5 +1,5 @@
 #!/bin/sh
 while true; do
-  echo "."
-  sleep 1
+  date
+  sleep 10
 done
